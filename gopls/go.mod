@@ -21,7 +21,7 @@ require (
 	github.com/google/safehtml v0.0.2 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
 
 replace golang.org/x/tools => ../
